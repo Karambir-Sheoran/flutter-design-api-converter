@@ -1,4 +1,4 @@
-# comerceapp
+# easyConverterapp
 
 A new Flutter application.
 
